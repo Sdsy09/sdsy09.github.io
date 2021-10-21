@@ -101,7 +101,7 @@ input, select, textarea {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
 		color: #888;
-		font-weight: 400;
+		font-weight: 450;
 		font-size: 13pt;
 	}
 
@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: color .2s ease-in-out;
 		transition: color .2s ease-in-out;
 		color: #43B3E0;
-		/*text-decoration: underline; */
+		
 	}
 
 		a:hover {
