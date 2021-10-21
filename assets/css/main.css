@@ -1614,10 +1614,10 @@ input, select, textarea {
 	}
 
 /*	section > :last-child, */
-/*	article > :last-child, */
+	article > :last-child, 
 /*	section:last-child, */
-/*	article:last-child { */
-/*		margin-bottom: 0; }*/
+	article:last-child { 
+		margin-bottom: 0; }
 	
 
 /* Image */
