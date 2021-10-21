@@ -2046,29 +2046,8 @@ input, select, textarea {
 		cursor: default;
 		height: 3.5em;
 		line-height: 3.5em;
+		float: left;
 	}
-
-   #nav navigation-bar {
-    width: 100%;  /* i'm assuming full width */
-    height: 80px; /* change it to desired width */
-    background-color: red; /* change to desired color */
-}
-    #nav logo {
-    display: inline-block;
-    vertical-align: top;
-    width: 50px;
-    height: 50px;
-    margin-right: 20px;
-    margin-top: 15px;    /* if you want it vertically middle of the navbar. */
-}
-     #nav navigation-bar > a {
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 20px;
-    height: 80px;        /* if you want it to take the full height of the bar */
-    line-height: 80px;    /* if you want it vertically middle of the navbar */
-}
-
 		#nav ul {
 			margin-bottom: 0;
 			list-style: none;
@@ -2118,6 +2097,15 @@ input, select, textarea {
 					border-right: solid 0.75em transparent;
 					border-top: solid 0.6em #282828;
 				}
+                   .logo-img{
+                         float: left;
+                         position: relative;
+                         margin: 10px 15px 15px 10px;
+                     }
+                 .bg-div{
+                        background:#333;
+                        overflow: hidden;
+                       }
 
 /* Articles */
 
