@@ -2048,12 +2048,12 @@ input, select, textarea {
 		line-height: 3.5em;
 	}
 
-.navigation-bar {
+   #nav navigation-bar {
     width: 100%;  /* i'm assuming full width */
     height: 80px; /* change it to desired width */
     background-color: red; /* change to desired color */
 }
-.logo {
+    #nav logo {
     display: inline-block;
     vertical-align: top;
     width: 50px;
@@ -2061,7 +2061,7 @@ input, select, textarea {
     margin-right: 20px;
     margin-top: 15px;    /* if you want it vertically middle of the navbar. */
 }
-.navigation-bar > a {
+     #nav navigation-bar > a {
     display: inline-block;
     vertical-align: top;
     margin-right: 20px;
