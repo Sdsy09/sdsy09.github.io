@@ -2047,6 +2047,8 @@ input, select, textarea {
 		height: 3.5em;
 		line-height: 3.5em;
 		float: left;
+		    overflow:hidden;
+
 	}
 		#nav ul {
 			margin-bottom: 0;
@@ -2099,7 +2101,7 @@ input, select, textarea {
 				}
                    .logo-img{
                          float: left;
-                         position: relative;
+                         position: fixed;
                          margin: 10px 15px 15px 10px;
                      }
                  .bg-div{
