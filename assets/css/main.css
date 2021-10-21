@@ -2101,13 +2101,19 @@ input, select, textarea {
 				}
                    .logo-img{
                          float: left;
-                         position: fixed;
+                         position: relative;
                          margin: 10px 15px 15px 10px;
                      }
                  .bg-div{
                         background:#333;
                         overflow: hidden;
                        }
+                 .logo-div{
+  float:left;
+}
+.menu-div{
+  float:right;
+}
 
 /* Articles */
 
