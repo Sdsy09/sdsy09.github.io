@@ -1999,19 +1999,19 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
+						background-image: none;
 			background-color: none; <!-- #fafafa -->
 			<!-- text-shadow: 1px 1px 0px #fff; -->
 		}
 
 		.wrapper.style3 {
+						background-image: none;
 			background-color: none;
 			<!-- text-shadow: 1px 1px 0px #fff;  -->
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
-			color: #999;
-			text-shadow: -1px -1px 0px #181818;
+						background-image: none;
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
