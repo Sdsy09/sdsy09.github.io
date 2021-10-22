@@ -2101,48 +2101,7 @@ input, select, textarea {
 					border-right: solid 0.75em transparent;
 					border-top: solid 0.6em #282828;
 				}
-                   .logo-img{
-                         float: left;
-                         position: relative;
-                         margin: 10px 15px 15px 10px;
-                     }
-                 .bg-div{
-                        background:#333;
-                        overflow: hidden;
-                       }
-                 .logo-div{
-  float:left;
-}
-.menu-div{
-  float:right;
-}
-
-                       .logo-image{
-     width: 46px;
-     height: 46px;
-     border-radius: 50%;
-     overflow: hidden;
-     margin-top: -6px;
-}
-
-
-#logo img{
-  height: auto;
-  width: auto;
-  max-width: 40%;
-  overflow: hidden;
-}
-
-
-#logo { 
-  float: left;
-  display: inline-block;
-}
-
-.clear {
-  clear: both;
-}
-
+    
 
 
 
