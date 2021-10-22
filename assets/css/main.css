@@ -2035,7 +2035,22 @@ input, select, textarea {
 
 /* Nav */
 
-	#nav {
+#nav{
+  background-color: #282828;
+  padding: 10px 40px 10px 70px;
+  border: 1px solid #B0B1AE;
+  border-left: none;
+  border-right: none;
+
+}
+#nav ul{
+   display: flex;
+   list-style: wrap;
+   align-items: right;
+   /*justify-content: center;*/
+}
+
+/*	#nav {
 		background-color: #282828;
 		text-align: right;
 		position: fixed;
@@ -2055,6 +2070,7 @@ input, select, textarea {
 			list-style: none;
 			padding-left: 0;
 		}
+*/
 
 		#nav li {
 			display: inline-block;
