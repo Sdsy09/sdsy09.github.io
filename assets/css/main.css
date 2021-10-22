@@ -2123,6 +2123,17 @@ input, select, textarea {
      margin-top: -6px;
 }
 
+  #logo{
+  flex-basis: 20%;
+  font-size: 0;
+}
+#logo img{
+  height: auto;
+  width: auto;
+  max-width: 40%;
+  overflow: hidden;
+}
+
 
 /* Articles */
 
